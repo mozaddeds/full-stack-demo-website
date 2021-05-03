@@ -1,0 +1,20 @@
+.carCard {
+    margin: 20px 20px 20px 60px;
+    padding: 20px;
+    text-align: center;
+    box-shadow: 5px 5px 8px gray;
+    width: 350px;
+}
+
+.carCard h4 {
+    margin-top: 10px;
+}
+
+.carCard img {
+    width: 200px;
+    height: 200px;
+}
+
+.cardFooter {
+    margin-top: 20px;
+}

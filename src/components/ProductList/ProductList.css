@@ -1,0 +1,10 @@
+/* .productName {
+    margin-right: 100px;
+} */
+
+.productNameField {
+    display: flex;
+    flex-direction: columns;
+    border: 1px solid red;
+    margin-left: -150px;
+}

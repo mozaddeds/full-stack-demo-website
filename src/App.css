@@ -1,0 +1,25 @@
+.dataCard {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  
+}
+
+.dataLine {
+  margin-bottom: 5px;
+}
+
+.productItems {
+  margin-right: 500px;
+  width: 300px;
+  margin-top: 100px;
+}
+
+@media (max-width: 560px) {
+  .dataCard {
+      display: flex;
+      flex-direction: column;
+      width: 100%;
+      padding: 0px;
+      margin: 0px;
+  }
+}
